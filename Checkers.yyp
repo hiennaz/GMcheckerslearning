@@ -35,6 +35,7 @@
   },
   "name":"Checkers",
   "resources":[
+    {"id":{"name":"Board","path":"objects/Board/Board.yy",},},
     {"id":{"name":"Piece","path":"objects/Piece/Piece.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

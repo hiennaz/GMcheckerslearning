@@ -42,6 +42,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"black_king","path":"sprites/black_king/black_king.yy",},},
     {"id":{"name":"black_piece","path":"sprites/black_piece/black_piece.yy",},},
+    {"id":{"name":"white_king","path":"sprites/white_king/white_king.yy",},},
+    {"id":{"name":"white_piece","path":"sprites/white_piece/white_piece.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

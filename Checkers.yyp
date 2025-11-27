@@ -31,10 +31,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"Checkers",
   "resources":[
+    {"id":{"name":"Piece","path":"objects/Piece/Piece.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",

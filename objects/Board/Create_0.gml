@@ -1,0 +1,1 @@
+current_game_board_array = global.init_game_board_array

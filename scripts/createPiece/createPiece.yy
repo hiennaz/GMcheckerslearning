@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"uiUpdate",
+  "%Name":"createPiece",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"uiUpdate",
+  "name":"createPiece",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

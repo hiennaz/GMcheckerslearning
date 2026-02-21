@@ -10,6 +10,13 @@ enum piece_type{
 	king
 }
 
+enum piece_state{
+	idle,
+	selected,
+	promoted,
+	captured
+}
+
 // Basic Board info
 
 global.init_game_board_array = [
